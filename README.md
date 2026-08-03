@@ -7,6 +7,12 @@ Esse repositório contém o código desenvolvido em python para o desafio do iFo
 ## diretírio notebooks
   * contém o notebook de preprocesamento( data_processing.ipynb), o de modelagem( mdeling.ipynb) , o de testes e exploração inicial( teste.ipynb). Também contém os arquivos de readme.md, a apresentacao ppt, e o arquivo de requirements
 # Objetivo
-Depois de fazer a limpeza e o pré-procesamento, utilizei um regressor logístico simples, sem tunning para resolver o desafio. O ifood deu apenas 5 dias para resolução do problema ( na verdade, 4 , se considerar que só recebi esse desafio na segunda-feira à noite). Gastei mais de 20 horas de trabalho, mesmo com o aceleradorda IA(Claude IA ) para solucionar. O desafio foi totalmente desbalanceado e, obviamente, não atingi os 'altos padrões' deles, mas serviu de aprendizado.
-O desafio utilizou o Databricks community edition ( obrigado , Databricks) , o spark ( Obrigado, novamente, Databricks) , as bibliotecas pandas , numpy, sci-kitlearn( obrigado , comunidade python ) e os arquivos da Starbucks, tirados da Udacity( obrigado , Udacity ).
-Novamente, devido à falta de tempo e o caráter apertado do desafio, não deu para configurar o ambiente da maneira que gostaria, criando arquivos de configuração, passando parâmetros no notebook e fazendo um trabalho melhor com o spark. Foi 'sugestão' do iFood usar o databricks, o git como repositório, o que adicionou ainda mais a entrega. 
+Depois de fazer a limpeza e o pré-procesamento, utilizei um regressor logístico simples, sem tunning para resolver o desafio. O ifood deu apenas 5 dias para resolução do problema ( na verdade, 4 , considerando que só recebi esse desafio na segunda-feira à noite). 
+
+Gastei mais de 20 horas de trabalho, mesmo com o acelerador da IA(Claude IA ) para solução. Exigia a exploração dos dados, o pré-processamento, a modelagem, um relatório com 7 slides, apresentando e discutindo a solução. Também envolvia a configuração do ambiente databricks e o uso do spark.
+
+O desafio utilizou o Databricks community edition ( obrigado, Databricks) , o spark ( Obrigado, novamente, Databricks) , as bibliotecas pandas , numpy, sci-kitlearn( obrigado , comunidade python ) e os arquivos da Starbucks, tirados da Udacity( obrigado , Udacity ).
+
+Novamente, devido à falta de tempo e o caráter apertado do desafio, não deu para configurar o ambiente da maneira que gostaria, criando arquivos de configuração, passando parâmetros no notebook e fazendo um trabalho melhor com o spark. Foi 'sugestão' do iFood usar o databricks, o git como repositório, o que adicionou ainda mais complexidade ( desnecessária, a meu ver) a entrega. 
+
+Valeu pelo aprendizado.
