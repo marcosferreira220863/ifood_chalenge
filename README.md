@@ -1,5 +1,5 @@
 ﻿#  ifood_chalenge
-Esse repositório contém o código desenvolvido em python para o desafio do iFood, que usa uma base de dados do Starbucks. O desafio, em si, envolvem muito mais a mdoelagem dos dados do que o usuod de machine learning.
+Esse repositório contém o código desenvolvido em python para o desafio do iFood, que usa uma base de dados do Starbucks. O desafio, em si, envolvem muito mais a mdoelagem dos dados do que o uso de machine learning.
 # Estrutura
 ## diretório data:
   * Contém o subdiretório raw, com os arquivos csv originais do problema;
@@ -13,6 +13,6 @@ Gastei mais de 20 horas de trabalho, mesmo com o acelerador da IA(Claude IA ) pa
 
 O desafio utilizou o Databricks community edition ( obrigado, Databricks) , o spark ( Obrigado, novamente, Databricks) , as bibliotecas pandas , numpy, sci-kitlearn( obrigado , comunidade python ) e os arquivos da Starbucks, tirados da Udacity( obrigado , Udacity ).
 
-Novamente, devido à falta de tempo e o caráter apertado do desafio, não deu para configurar o ambiente da maneira que gostaria, criando arquivos de configuração, passando parâmetros no notebook e fazendo um trabalho melhor com o spark. Foi 'sugestão' do iFood usar o databricks, o git como repositório, o que adicionou ainda mais complexidade ( desnecessária, a meu ver) a entrega. 
+Novamente, devido à falta de tempo e o caráter apertado do desafio, não deu para configurar o ambiente da maneira que gostaria, criando arquivos de configuração, passando parâmetros no notebook e fazendo um trabalho melhor com o spark. Foi 'sugestão' do iFood usar o databricks, o git como repositório, o que adicionou ainda mais complexidade ( desnecessária, a meu ver) à entrega. 
 
 Valeu pelo aprendizado.
